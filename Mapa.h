@@ -1,5 +1,10 @@
 #pragma once
-class Mapa {
+#include "Niveles.h"
+ref class Mapa {
+
+protected:
+	Niveles* nivel;
+	int nivelActual;
 
 
 

@@ -1,6 +1,6 @@
 #pragma once
 #include "Entidad.h"
- class Personaje :public Entidad{
+ ref class Personaje :public Entidad{
 
 
 };

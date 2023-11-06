@@ -1,0 +1,17 @@
+﻿  Aliados.cpp
+C:\Users\ARTUTO\Desktop\capetas\tareas\TF\Entidad.h(10,14): error C3265: no puede declarar un elemento 'g' administrado en un elemento 'Entidad' sin administrar
+C:\Users\ARTUTO\Desktop\capetas\tareas\TF\Entidad.h(10,14): message : no puede declarar una variable global o estática, o un miembro de un tipo nativo que hace referencia a objetos del montón gc
+  Enemigos.cpp
+C:\Users\ARTUTO\Desktop\capetas\tareas\TF\Entidad.h(10,14): error C3265: no puede declarar un elemento 'g' administrado en un elemento 'Entidad' sin administrar
+C:\Users\ARTUTO\Desktop\capetas\tareas\TF\Entidad.h(10,14): message : no puede declarar una variable global o estática, o un miembro de un tipo nativo que hace referencia a objetos del montón gc
+  Entidad.cpp
+C:\Users\ARTUTO\Desktop\capetas\tareas\TF\Entidad.h(10,14): error C3265: no puede declarar un elemento 'g' administrado en un elemento 'Entidad' sin administrar
+C:\Users\ARTUTO\Desktop\capetas\tareas\TF\Entidad.h(10,14): message : no puede declarar una variable global o estática, o un miembro de un tipo nativo que hace referencia a objetos del montón gc
+  Mapa.cpp
+  MyForm.cpp
+  Niveles.cpp
+  Personaje.cpp
+C:\Users\ARTUTO\Desktop\capetas\tareas\TF\Entidad.h(10,14): error C3265: no puede declarar un elemento 'g' administrado en un elemento 'Entidad' sin administrar
+C:\Users\ARTUTO\Desktop\capetas\tareas\TF\Entidad.h(10,14): message : no puede declarar una variable global o estática, o un miembro de un tipo nativo que hace referencia a objetos del montón gc
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
