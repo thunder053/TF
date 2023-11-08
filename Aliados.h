@@ -3,6 +3,5 @@
 
  ref class Aliados : public Entidad{
 
-
 };
 
